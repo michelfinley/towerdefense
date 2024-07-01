@@ -1,0 +1,4 @@
+PyTMX~=3.32
+numpy~=2.0.0
+pillow~=10.3.0
+pygame-ce~=2.5.0
